@@ -27,8 +27,6 @@
 @property (weak) IBOutlet NSTextField *labelKT2;
 
 
-- (IBAction)setFirstShips:(id)sender;
-- (IBAction)setSecondShips:(id)sender;
 - (IBAction)resetFirst:(id)sender;
 - (IBAction)resetSecond:(id)sender;
 

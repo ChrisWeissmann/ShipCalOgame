@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		83849F911D0AE6EA0042A8D1 /* Calculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 83849F901D0AE6EA0042A8D1 /* Calculator.m */; };
 		83CD41A91D0AD46E00DB8A43 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 83CD41A81D0AD46E00DB8A43 /* AppDelegate.m */; };
 		83CD41AC1D0AD46E00DB8A43 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 83CD41AB1D0AD46E00DB8A43 /* main.m */; };
 		83CD41AF1D0AD46E00DB8A43 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 83CD41AE1D0AD46E00DB8A43 /* ViewController.m */; };
@@ -35,8 +34,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		83849F8F1D0AE6EA0042A8D1 /* Calculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calculator.h; sourceTree = "<group>"; };
-		83849F901D0AE6EA0042A8D1 /* Calculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Calculator.m; sourceTree = "<group>"; };
 		83CD41A41D0AD46E00DB8A43 /* Remember2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Remember2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		83CD41A71D0AD46E00DB8A43 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		83CD41A81D0AD46E00DB8A43 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -102,8 +99,6 @@
 		83CD41A61D0AD46E00DB8A43 /* Remember2 */ = {
 			isa = PBXGroup;
 			children = (
-				83849F8F1D0AE6EA0042A8D1 /* Calculator.h */,
-				83849F901D0AE6EA0042A8D1 /* Calculator.m */,
 				83CD41A71D0AD46E00DB8A43 /* AppDelegate.h */,
 				83CD41A81D0AD46E00DB8A43 /* AppDelegate.m */,
 				83CD41AD1D0AD46E00DB8A43 /* ViewController.h */,
@@ -272,7 +267,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				83CD41AF1D0AD46E00DB8A43 /* ViewController.m in Sources */,
-				83849F911D0AE6EA0042A8D1 /* Calculator.m in Sources */,
 				83CD41AC1D0AD46E00DB8A43 /* main.m in Sources */,
 				83CD41A91D0AD46E00DB8A43 /* AppDelegate.m in Sources */,
 			);
